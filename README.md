@@ -15,4 +15,9 @@ The word “async” before a function means one simple thing: a function always
 
 screenshot of the app
 
-<img src=""><img src=""><img src="">
+APP Home
+<img src="https://github.com/keniiy/Javascript_weather_app/blob/master/screenshot/1.png">
+City Day Response
+<img src="https://github.com/keniiy/Javascript_weather_app/blob/master/screenshot/2.png">
+Night Response 
+<img src="https://github.com/keniiy/Javascript_weather_app/blob/master/screenshot/3.png">
