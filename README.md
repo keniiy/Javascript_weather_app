@@ -20,6 +20,6 @@ screenshot of the app
 <div>APP Home</div>
 <img src="https://github.com/keniiy/Javascript_weather_app/blob/master/screenshot/1.png" width="500px">
  </div>
-<img src="https://github.com/keniiy/Javascript_weather_app/blob/master/screenshot/2.png">
-
-<img src="https://github.com/keniiy/Javascript_weather_app/blob/master/screenshot/3.png">
+ <div class="row">
+<img src="https://github.com/keniiy/Javascript_weather_app/blob/master/screenshot/2.png"><img src="https://github.com/keniiy/Javascript_weather_app/blob/master/screenshot/3.png">
+</div
