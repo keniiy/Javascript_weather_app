@@ -2,7 +2,7 @@
 A simple web application built with javascripts getting weather information form <a href="https://accuweather.com/">Accuweather</a> using the 
 <b>The Fetch API which allows you to asynchronously request for a resource. Use the fetch() method to return a promise that resolves into a Response object. To get the actual data, you call one of the methods of the Response object e.g., text() or json() . These methods also resolve into the actual data</b>
 
-To use the app you can go to <a href="https://accuweather.com/">Accuweather website</a> create an account to get your api key which can be changed in the <a href="https://github.com/keniiy/Javascript_weather_app/blob/master/WEATHER_app_api/scripts/forecast.js ">Accuweather website</a>
+To use the app you can go to <a href="https://accuweather.com/">Forecast.Js</a> create an account to get your api key which can be changed in the <a href="https://github.com/keniiy/Javascript_weather_app/blob/master/WEATHER_app_api/scripts/forecast.js ">Accuweather website</a>
 
 The app was build using some javascripts methods like 
 10)An event listener is a procedure in JavaScript that waits for an event to occur. The simple example of an event is a user clicking the mouse or pressing a key on the keyboard.
